@@ -8,6 +8,7 @@ Usage:
     python run.py honeypot           # Run honeypot server only
     python run.py dashboard          # Launch dashboard
     python run.py evolve             # Run classifier evolution only
+    python run.py adversarial        # Run adversarial training (Red vs Blue)
     python run.py classify "prompt"  # Classify a single prompt
     python run.py status             # Show system status
 """
@@ -85,6 +86,31 @@ def classify_prompt(prompt: str):
     print(f"Classification: {status}")
     print(f"Confidence: {conf:.3f}")
     print(f"Method: {details.get('method', 'unknown')}")
+
+
+def run_adversarial(cycles: int = 10):
+    """Run adversarial training (Red AI vs Blue AI)"""
+    from src.adversarial import AdversarialTrainer, AdversarialConfig
+
+    config = AdversarialConfig(
+        attacks_per_round=15,
+        rounds_per_cycle=3,
+        max_cycles=cycles,
+        target_defender_fitness=0.90
+    )
+
+    trainer = AdversarialTrainer(
+        config=config,
+        dataset_path=PROJECT_ROOT / "data" / "datasets" / "test.json",
+        state_dir=PROJECT_ROOT / "data" / "adversarial"
+    )
+
+    trainer.run_training(verbose=True)
+
+    # Copy best defender to main evolution state
+    if trainer.blue_evolver.best_strategy:
+        print("\n[INFO] Saving improved defender to main evolution state...")
+        trainer.blue_evolver.save_state(PROJECT_ROOT / "data" / "evolution_state.json")
 
 
 def show_status():
@@ -177,6 +203,10 @@ Examples:
     evolve_parser = subparsers.add_parser("evolve", help="Run classifier evolution")
     evolve_parser.add_argument("--gens", type=int, default=20, help="Number of generations")
 
+    # Adversarial training command
+    adversarial_parser = subparsers.add_parser("adversarial", help="Run adversarial training (Red vs Blue)")
+    adversarial_parser.add_argument("--cycles", type=int, default=10, help="Number of training cycles")
+
     # Classify command
     classify_parser = subparsers.add_parser("classify", help="Classify a prompt")
     classify_parser.add_argument("prompt", help="Prompt to classify")
@@ -194,6 +224,8 @@ Examples:
         run_dashboard()
     elif args.command == "evolve":
         run_evolution(args.gens)
+    elif args.command == "adversarial":
+        run_adversarial(args.cycles)
     elif args.command == "classify":
         classify_prompt(args.prompt)
     elif args.command == "status":

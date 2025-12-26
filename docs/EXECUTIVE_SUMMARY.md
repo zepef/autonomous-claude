@@ -34,7 +34,7 @@ Traditional defenses fail because:
 
 ```
 +-------------------------------------------------------------+
-|                    AI-DEFENDER SYSTEM                        |
+|                    AI-DEFENDER SYSTEM                       |
 +-------------------------------------------------------------+
 |                                                             |
 |   +-------------+    +-------------+    +-------------+     |
@@ -44,7 +44,7 @@ Traditional defenses fail because:
 |          |                  |                               |
 |          v                  v                               |
 |   +-----------------------------------------------------+   |
-|   |              DUAL MEMORY LAYER                       |   |
+|   |              DUAL MEMORY LAYER                      |   |
 |   |   Short-term (SQLite)  +  Long-term (Qdrant)        |   |
 |   +-----------------------------------------------------+   |
 +-------------------------------------------------------------+
@@ -52,12 +52,12 @@ Traditional defenses fail because:
 
 ### Core Components
 
-| Component | Function | Technology |
-|-----------|----------|------------|
-| **Classifier** | Detect malicious prompts | Genetic algorithms + sentence embeddings |
-| **Honeypot** | Engage attackers with fake data | Flask MCP server |
-| **Memory** | Learn from experience | SQLite + Qdrant vector DB |
-| **Dashboard** | Real-time monitoring | Streamlit |
+| Component      | Function                        | Technology                               |
+|----------------|---------------------------------|------------------------------------------|
+| **Classifier** | Detect malicious prompts        | Genetic algorithms + sentence embeddings |
+| **Honeypot**   | Engage attackers with fake data | Flask MCP server                         |
+| **Memory**     | Learn from experience           | SQLite + Qdrant vector DB                |
+| **Dashboard**  | Real-time monitoring            | Streamlit                                |
 
 ---
 
@@ -73,12 +73,12 @@ The classifier **evolves autonomously** using genetic algorithms:
 
 ### Evolution Results
 
-| Generation | Best Fitness | Discovery |
-|------------|--------------|-----------|
-| 0 | 0.00 | Random initialization |
-| 1-10 | 0.17 | Keyword matching plateau |
-| 11 | 0.48 | **Semantic method discovered** |
-| 12-15 | 0.65 | Refinement of semantic approach |
+| Generation | Best Fitness | Discovery                       |
+|------------|--------------|---------------------------------|
+| 0          | 0.00         | Random initialization           |
+| 1-10       | 0.17         | Keyword matching plateau        |
+| 11         | 0.48         | **Semantic method discovered**  |
+| 12-15      | 0.65         | Refinement of semantic approach |
 
 **Key Finding**: The system autonomously discovered that semantic (embedding-based) classification outperforms keyword matching - without being told.
 
