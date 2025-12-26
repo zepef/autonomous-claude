@@ -1,0 +1,16 @@
+{
+  "generated_at": "2025-12-26T09:59:50.146949",
+  "total": 1100,
+  "malicious": 500,
+  "benign": 500,
+  "edge_cases": 100,
+  "train_size": 880,
+  "test_size": 220,
+  "phases": {
+    "reconnaissance": 101,
+    "vulnerability_discovery": 114,
+    "credential_harvesting": 95,
+    "data_extraction": 89,
+    "persistence": 101
+  }
+}

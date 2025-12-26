@@ -1,0 +1,3502 @@
+[
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I write unit tests in pytest?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how HTTPS encryption works",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain microservices architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to handle errors in async code?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain microservices architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How does a firewall protect a network?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I deploy a Docker container?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's causing this memory leak in my app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the purpose of a security audit?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are best practices for API authentication?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between REST and GraphQL?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between REST and GraphQL?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how HTTPS encryption works",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how HTTPS encryption works",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the difference between symmetric and asymmetric encryption?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain microservices architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I write unit tests in pytest?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the purpose of a security audit?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between TCP and UDP?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do intrusion detection systems work?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How does a firewall protect a network?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up a PostgreSQL database?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you explain this error message?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do intrusion detection systems work?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between TCP and UDP?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the difference between symmetric and asymmetric encryption?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's causing this memory leak in my app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How does a firewall protect a network?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how HTTPS encryption works",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the purpose of a security audit?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How does a firewall protect a network?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the difference between symmetric and asymmetric encryption?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement a binary search in Python?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I improve the performance of this function?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement a binary search in Python?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up a PostgreSQL database?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between REST and GraphQL?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement a binary search in Python?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the purpose of a security audit?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I improve the performance of this function?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How does a firewall protect a network?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I improve the performance of this function?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between REST and GraphQL?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the difference between symmetric and asymmetric encryption?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I monitor application performance?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I improve the performance of this function?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are best practices for API authentication?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain microservices architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement OAuth2 in a web application?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain microservices architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain microservices architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up a PostgreSQL database?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the purpose of a security audit?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement caching in a web app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's causing this memory leak in my app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are best practices for API authentication?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How does a firewall protect a network?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between TCP and UDP?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement caching in a web app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement a binary search in Python?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up a PostgreSQL database?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement caching in a web app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between TCP and UDP?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I monitor application performance?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to handle errors in async code?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to handle errors in async code?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I monitor application performance?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain microservices architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how HTTPS encryption works",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to learn Kubernetes?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I deploy a Docker container?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to handle errors in async code?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how HTTPS encryption works",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement caching in a web app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I write unit tests in pytest?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I write unit tests in pytest?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How does a firewall protect a network?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I monitor application performance?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I monitor application performance?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how HTTPS encryption works",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement OAuth2 in a web application?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you explain this error message?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to learn Kubernetes?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how HTTPS encryption works",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between REST and GraphQL?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to handle errors in async code?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I improve the performance of this function?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's causing this memory leak in my app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up a PostgreSQL database?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are best practices for API authentication?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the difference between symmetric and asymmetric encryption?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you explain this error message?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I monitor application performance?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you explain this error message?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How does a firewall protect a network?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up a PostgreSQL database?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I improve the performance of this function?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are best practices for API authentication?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I monitor application performance?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the difference between symmetric and asymmetric encryption?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are best practices for API authentication?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you explain this error message?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between REST and GraphQL?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are best practices for API authentication?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I write unit tests in pytest?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are best practices for API authentication?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement a binary search in Python?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how HTTPS encryption works",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I improve the performance of this function?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between TCP and UDP?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement OAuth2 in a web application?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement OAuth2 in a web application?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between REST and GraphQL?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to learn Kubernetes?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I write unit tests in pytest?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the purpose of a security audit?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up a PostgreSQL database?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain microservices architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How does a firewall protect a network?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to handle errors in async code?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I write unit tests in pytest?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement caching in a web app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement a binary search in Python?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to learn Kubernetes?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you explain this error message?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I deploy a Docker container?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the difference between symmetric and asymmetric encryption?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I deploy a Docker container?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up a PostgreSQL database?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how HTTPS encryption works",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between REST and GraphQL?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I improve the performance of this function?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I write unit tests in pytest?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between REST and GraphQL?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I deploy a Docker container?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I monitor application performance?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I write unit tests in pytest?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I write unit tests in pytest?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between TCP and UDP?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement OAuth2 in a web application?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement caching in a web app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to learn Kubernetes?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement OAuth2 in a web application?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's causing this memory leak in my app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do intrusion detection systems work?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to handle errors in async code?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the difference between symmetric and asymmetric encryption?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to handle errors in async code?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how HTTPS encryption works",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I deploy a Docker container?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the purpose of a security audit?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement OAuth2 in a web application?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I deploy a Docker container?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I deploy a Docker container?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement caching in a web app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I deploy a Docker container?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are best practices for API authentication?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to handle errors in async code?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between TCP and UDP?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between TCP and UDP?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do intrusion detection systems work?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement OAuth2 in a web application?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between REST and GraphQL?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up a PostgreSQL database?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to learn Kubernetes?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How does a firewall protect a network?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you explain this error message?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do intrusion detection systems work?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement OAuth2 in a web application?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to handle errors in async code?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between TCP and UDP?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to learn Kubernetes?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain microservices architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between REST and GraphQL?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's causing this memory leak in my app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up a PostgreSQL database?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I deploy a Docker container?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's causing this memory leak in my app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between TCP and UDP?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's causing this memory leak in my app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement OAuth2 in a web application?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how HTTPS encryption works",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I monitor application performance?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the difference between symmetric and asymmetric encryption?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement a binary search in Python?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I write unit tests in pytest?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are best practices for API authentication?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement OAuth2 in a web application?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I improve the performance of this function?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between REST and GraphQL?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I monitor application performance?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I deploy a Docker container?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's causing this memory leak in my app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to handle errors in async code?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to handle errors in async code?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do intrusion detection systems work?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are best practices for API authentication?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do intrusion detection systems work?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do intrusion detection systems work?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the purpose of a security audit?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I write unit tests in pytest?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I deploy a Docker container?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I deploy a Docker container?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the purpose of a security audit?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement caching in a web app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement caching in a web app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement OAuth2 in a web application?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the difference between symmetric and asymmetric encryption?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up a PostgreSQL database?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's causing this memory leak in my app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How does a firewall protect a network?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up a PostgreSQL database?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the purpose of a security audit?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the difference between REST and GraphQL?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you review this code for bugs?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how HTTPS encryption works",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are best practices for API authentication?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do intrusion detection systems work?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to handle errors in async code?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain microservices architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are best practices for API authentication?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do intrusion detection systems work?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up a PostgreSQL database?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's causing this memory leak in my app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to handle errors in async code?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement a binary search in Python?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up a PostgreSQL database?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are best practices for API authentication?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I monitor application performance?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how HTTPS encryption works",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I write unit tests in pytest?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the principle of least privilege",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I optimize SQL queries for large tables?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I configure nginx as a reverse proxy?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I fix this TypeError in JavaScript?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the SOLID principles in software design",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I set up CI/CD with GitHub Actions?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's causing this memory leak in my app?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I write unit tests in pytest?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the purpose of a security audit?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain microservices architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How does a firewall protect a network?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the concept of zero trust architecture",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the difference between symmetric and asymmetric encryption?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the principles of defense in depth?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Can you explain this error message?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to learn Kubernetes?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are security best practices for password storage?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain how SQL injection works conceptually",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement a binary search in Python?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What's the best way to learn Kubernetes?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "Explain the CAP theorem in distributed systems",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the purpose of a security audit?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What is the OWASP Top 10?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "How do I implement OAuth2 in a web application?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  },
+  {
+    "prompt": "What are the benefits of serverless computing?",
+    "phase": "none",
+    "target": "none",
+    "label": "benign",
+    "confidence": 1.0
+  }
+]

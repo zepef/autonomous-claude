@@ -1,0 +1,10 @@
+{
+  "started_at": "2025-12-26T11:29:05.626058",
+  "cycle_count": 6,
+  "evolution_runs": 2,
+  "last_evolution_at": "2025-12-26T11:36:37.469174",
+  "current_fitness": 0.9361702127659575,
+  "best_fitness_ever": 0.9361702127659575,
+  "honeypot_requests": 0,
+  "malicious_detected": 0
+}

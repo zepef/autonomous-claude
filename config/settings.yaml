@@ -1,0 +1,71 @@
+# AI-Defender Configuration
+# ===========================
+
+# API Configuration
+api:
+  anthropic_key: "${ANTHROPIC_API_KEY}"  # Set via environment variable
+  model: "claude-3-5-sonnet-20241022"    # Or claude-3-haiku for faster/cheaper
+  max_tokens: 2000
+  temperature: 0.7
+
+# Memory Configuration
+memory:
+  short_term:
+    db_path: "data/memory/short_term.db"
+    max_entries: 50
+  long_term:
+    host: "localhost"
+    port: 6333
+    collection: "claude_memory"
+    embedding_model: "all-MiniLM-L6-v2"
+
+# Lab Network
+lab:
+  host_ip: "10.0.0.1"
+  honeypot_port: 5000
+  kali_ip: "10.0.0.10"
+  dvwa_ip: "10.0.0.20"
+
+# Evolution Configuration
+evolution:
+  population_size: 5           # Number of strategy variants to test
+  generations_per_cycle: 10    # Generations before selecting winner
+  mutation_rate: 0.2           # Probability of mutation per gene
+  crossover_rate: 0.7          # Probability of crossover
+  elite_count: 1               # Best strategies to keep unchanged
+  fitness_threshold: 0.85      # Minimum fitness to be considered successful
+
+# Classifier Configuration
+classifier:
+  model: "ministral-3b"        # Or bert-base-uncased for initial
+  threshold: 0.87              # Classification confidence threshold
+  train_epochs: 4
+  learning_rate: 3e-5
+  batch_size: 16
+
+# Honeypot Configuration
+honeypot:
+  port: 5000
+  engagement_timeout: 60       # Seconds to keep attacker engaged
+  max_fake_responses: 10       # Limit fake data per session
+  log_all_requests: true
+
+# Agent Loop Configuration
+agent:
+  loop_interval: 60            # Seconds between decision cycles
+  max_runtime_hours: 24        # Maximum autonomous runtime
+  checkpoint_interval: 300     # Seconds between state saves
+  enable_browser: false        # Browser automation (requires Playwright)
+
+# Dashboard
+dashboard:
+  port: 8080
+  refresh_interval: 5          # Seconds between UI updates
+  show_evolution_graphs: true
+
+# Logging
+logging:
+  level: "INFO"                # DEBUG, INFO, WARNING, ERROR
+  log_to_file: true
+  log_dir: "logs"
+  max_log_size_mb: 100
